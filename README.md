@@ -62,17 +62,14 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   <tr>
     <td><img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="300"/></td>
     <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
-    <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="ScreenShots/SavedRouteDetailScreen2.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
-    <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="300"/></td>
+     <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
+     <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
+  </tr>
+  ### Kaydedilen Rotayı Görme Ekranı
+  <tr>
+    <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
+     <td><img src="ScreenShots/SavedRouteDetailScreen2.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
   </tr>
 </table>
 

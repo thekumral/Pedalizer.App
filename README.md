@@ -1,4 +1,4 @@
-# Bisiklet Uygulaması
+# PEDALİZER
 
 ## 1. Proje Gereksinimleri
 

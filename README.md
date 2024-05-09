@@ -93,7 +93,6 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/OpenSpotifyWithWeb.jpg" alt="Spotify ile Açma" width="200"/></td>
     <td><img src="ScreenShots/PlaylistScreen.jpg" alt="Playlist Ekranı" width="200"/></td>
   </tr>
-
 </table>
 
 ## 5. Kullanım

@@ -52,9 +52,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   <tr>
     <td><img src="ScreenShots/ActivityListScreen.jpg" alt="Aktivite Listesi" width="300"/></td>
     <td><img src="ScreenShots/ActivityDetailScreen1.jpg" alt="Aktivite Detayı 1" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="ScreenShots/ActivityDetailScreen2.jpg" alt="Aktivite Detayı 2" width="300"/></td>
+     <td><img src="ScreenShots/ActivityDetailScreen2.jpg" alt="Aktivite Detayı 2" width="300"/></td>
     <td><img src="ScreenShots/ActivityDetailScreen3.jpg" alt="Aktivite Detayı 3" width="300"/></td>
   </tr>
 </table>
@@ -66,7 +64,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="ScreenShots/RouteDetailScreenAgain.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
+    <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
     <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
   </tr>
   <tr>
@@ -85,7 +83,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/NearestHospitalPlaces.jpg" alt="Hastaneler" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="ScreenShots/OpenSpotifyWithWorking.jpg" alt="Spotify ile Açma" width="300"/></td>
+    <td><img src="ScreenShots/OpenSpotifyWithWeb.jpg" alt="Spotify ile Açma" width="300"/></td>
     <td><img src="ScreenShots/PlaylistScreen.jpg" alt="Playlist Ekranı" width="300"/></td>
   </tr>
   <tr>
@@ -94,26 +92,9 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   </tr>
 </table>
 
-### iScreen Shooter - Simple Example
-<table>
-  <tr>
-    <td><img src="ScreenShots/iScreen Shoter - Simple Example.png" alt="iScreen Shooter - Simple Example" width="300"/></td>
-    <td><img src="ScreenShots/iScreen Shoter - Simple Example (2).png" alt="iScreen Shooter - Simple Example (2)" width="300"/></td>
-  </tr>
-</table>
-
 ## 5. Kullanım
 
 1. Uygulamayı başlatın.
 2. Gerekli izinleri verin.
 3. Uygulama içinde gezinin ve istediğiniz işlemleri gerçekleştirin.
-
-## 6. Git Organizasyonu
-
-### Dal Yapısı (Branch)
-- **Main**: Tüm ana kodlar ve işlevler burada.
-- **Develop**: Ana kod geliştirme dalı.
-
-### Uzak Depo (Remote)
-- **Origin**: [PedaliZer.App](https://github.com/thekumral/Pedalizer.App)
 

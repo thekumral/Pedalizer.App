@@ -44,14 +44,17 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   <tr>
     <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/></td>
     <td><img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="200"/></td>
-    <td><img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="300"/></td>
-    <td><img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="300"/></td>
+    
   </tr>
 </table>
 ### Rota İşlemleri
 <table>
   <tr>
+    <td><img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="300"/></td>
+    <td><img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="300"/></td>
     <td><img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="300"/></td>
+  </tr>
+  <tr>
     <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
     <td><img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="300"/></td>
      <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>

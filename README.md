@@ -40,7 +40,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
 ## 4. Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](ScreenShot/MainScreen.jpg)
+![Ana Sayfa](ScreenShots/MainScreen.jpg)
 
 ### Rota Oluşturma
 ![Rota Oluşturma](screenshots/rota_olusturma.png)

@@ -44,7 +44,6 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   <tr>
     <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/></td>
     <td><img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="200"/></td>
-    
   </tr>
 </table>
 ### Rota İşlemleri
@@ -88,7 +87,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   </tr>
 </table>
   
-  ### Yakın Yerleri Gösterme Ekranı
+  ### Müzik Listeleri ve Spotify Ekranı
   <table>
   <tr>
     <td><img src="ScreenShots/OpenSpotifyWithWeb.jpg" alt="Spotify ile Açma" width="200"/></td>

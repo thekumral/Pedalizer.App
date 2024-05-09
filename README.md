@@ -39,58 +39,68 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
 
 ## 4. Ekran Görüntüleri
 
-### Ana Sayfa
-<img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/>
+### Ana Sayfa ve Kayıt Ekranı
+<table>
+  <tr>
+    <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="300"/></td>
+    <td><img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="300"/></td>
+  </tr>
+</table>
 
-### Rota Oluşturma
-<img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="200"/>
+### Aktivite Listesi ve Detayı
+<table>
+  <tr>
+    <td><img src="ScreenShots/ActivityListScreen.jpg" alt="Aktivite Listesi" width="300"/></td>
+    <td><img src="ScreenShots/ActivityDetailScreen1.jpg" alt="Aktivite Detayı 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/ActivityDetailScreen2.jpg" alt="Aktivite Detayı 2" width="300"/></td>
+    <td><img src="ScreenShots/ActivityDetailScreen3.jpg" alt="Aktivite Detayı 3" width="300"/></td>
+  </tr>
+</table>
 
-### Kayıt Ekranı
-<img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="200"/>
+### Rota İşlemleri
+<table>
+  <tr>
+    <td><img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="300"/></td>
+    <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/RouteDetailScreenAgain.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
+    <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/SavedRouteDetailScreenAgain.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
+    <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="300"/></td>
+  </tr>
+</table>
 
-### Aktivite Listesi
-<img src="ScreenShots/ActivityListScreen.jpg" alt="Aktivite Listesi" width="200"/>
-
-### Aktivite Detayı
-<img src="ScreenShots/ActivityDetailScreen1.jpg" alt="Aktivite Detayı" width="200"/>
-<img src="ScreenShots/ActivityDetailScreen2.jpg" alt="Aktivite Detayı 2" width="200"/>
-<img src="ScreenShots/ActivityDetailScreen3.jpg" alt="Aktivite Detayı 3" width="200"/>
-
-### Rota Detayı
-<img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="200"/>
-<img src="ScreenShots/RouteDetailScreenAgain.jpg" alt="Rota Detayı Tekrar" width="200"/>
-
-### Kaydedilmiş Rota Detayı
-<img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="200"/>
-<img src="ScreenShots/SavedRouteDetailScreenAgain.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="200"/>
-
-### Rota Kaydetme Ekranı
-<img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="200"/>
-
-### Rota Başlatma Ekranı
-<img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="200"/>
-
-### Market Yerleri
-<img src="ScreenShots/NeareMarketPlaces.jpg" alt="Market Yerleri" width="200"/>
-
-### Hastaneler
-<img src="ScreenShots/NearestHospitalPlaces.jpg" alt="Hastaneler" width="200"/>
-
-### Spotify ile Açma
-<img src="ScreenShots/OpenSpotifyWithWorking.jpg" alt="Spotify ile Açma" width="200"/>
-
-### Playlist Ekranı
-<img src="ScreenShots/PlaylistScreen.jpg" alt="Playlist Ekranı" width="200"/>
-
-### Sayfa Seçme
-<img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="200"/>
-
-### Yer Arama Ekranı
-<img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="200"/>
+### Diğer Özellikler
+<table>
+  <tr>
+    <td><img src="ScreenShots/NeareMarketPlaces.jpg" alt="Market Yerleri" width="300"/></td>
+    <td><img src="ScreenShots/NearestHospitalPlaces.jpg" alt="Hastaneler" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/OpenSpotifyWithWorking.jpg" alt="Spotify ile Açma" width="300"/></td>
+    <td><img src="ScreenShots/PlaylistScreen.jpg" alt="Playlist Ekranı" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="300"/></td>
+    <td><img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="300"/></td>
+  </tr>
+</table>
 
 ### iScreen Shooter - Simple Example
-<img src="ScreenShots/iScreen Shoter - Simple Example.png" alt="iScreen Shooter - Simple Example" width="200"/>
-<img src="ScreenShots/iScreen Shoter - Simple Example (2).png" alt="iScreen Shooter - Simple Example (2)" width="200"/>
+<table>
+  <tr>
+    <td><img src="ScreenShots/iScreen Shoter - Simple Example.png" alt="iScreen Shooter - Simple Example" width="300"/></td>
+    <td><img src="ScreenShots/iScreen Shoter - Simple Example (2).png" alt="iScreen Shooter - Simple Example (2)" width="300"/></td>
+  </tr>
+</table>
 
 ## 5. Kullanım
 

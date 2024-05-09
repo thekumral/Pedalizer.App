@@ -44,6 +44,26 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   <tr>
     <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/></td>
     <td><img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="200"/></td>
+    <td><img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="300"/></td>
+    <td><img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="300"/></td>
+  </tr>
+</table>
+### Rota İşlemleri
+<table>
+  <tr>
+    <td><img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="300"/></td>
+    <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
+    <td><img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="300"/></td>
+     <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
+     <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
+  </tr>
+  </table>
+  
+  ### Kaydedilen Rotayı Görme Ekranı
+  <table>
+  <tr>
+    <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
+     <td><img src="ScreenShots/SavedRouteDetailScreen2.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
   </tr>
 </table>
 
@@ -57,24 +77,6 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
   </tr>
 </table>
 
-### Rota İşlemleri
-<table>
-  <tr>
-    <td><img src="ScreenShots/CreateRoutesScreen.jpg" alt="Rota Oluşturma" width="300"/></td>
-    <td><img src="ScreenShots/RouteDetailScreen.jpg" alt="Rota Detayı" width="300"/></td>
-    <td><img src="ScreenShots/StartRouteScreen.jpg" alt="Rota Başlatma Ekranı" width="300"/></td>
-     <td><img src="ScreenShots/RouteDetailScreenAfter.jpg" alt="Rota Detayı Tekrar" width="300"/></td>
-     <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
-  </tr>
-  </table>
-  <table>
-  ### Kaydedilen Rotayı Görme Ekranı
-  <tr>
-    <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
-     <td><img src="ScreenShots/SavedRouteDetailScreen2.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
-  </tr>
-</table>
-
 ### Yakın Yerleri Gösterme Ekranı
 <table>
   <tr>
@@ -82,7 +84,6 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/NearestHospitalPlaces.jpg" alt="Hastaneler" width="300"/></td>
   </tr>
 </table>
-
   
   ### Yakın Yerleri Gösterme Ekranı
   <table>
@@ -90,10 +91,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/OpenSpotifyWithWeb.jpg" alt="Spotify ile Açma" width="300"/></td>
     <td><img src="ScreenShots/PlaylistScreen.jpg" alt="Playlist Ekranı" width="300"/></td>
   </tr>
-  <tr>
-    <td><img src="ScreenShots/ChoosingPage.jpg" alt="Sayfa Seçme" width="300"/></td>
-    <td><img src="ScreenShots/SearchPlacesScreen.jpg" alt="Yer Arama Ekranı" width="300"/></td>
-  </tr>
+
 </table>
 
 ## 5. Kullanım

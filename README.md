@@ -70,7 +70,7 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
     <td><img src="ScreenShots/SavedRouteDetailScreen.jpg" alt="Kaydedilmiş Rota Detayı" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="ScreenShots/SavedRouteDetailScreenAgain.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
+    <td><img src="ScreenShots/SavedRouteDetailScreenAfter.jpg" alt="Kaydedilmiş Rota Detayı Tekrar" width="300"/></td>
     <td><img src="ScreenShots/RouteSaveScreen.jpg" alt="Rota Kaydetme Ekranı" width="300"/></td>
   </tr>
   <tr>

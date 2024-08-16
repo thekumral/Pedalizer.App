@@ -42,10 +42,9 @@ Bu proje, bisiklet kullanıcılarının keyifli ve rahat bir şekilde ulaşım s
 ### Ana Sayfa ve Kayıt Ekranı
 <table>
   <tr>
-    <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/></td>
+    <td><img src="ScreenShots/LoginPage.png" alt="Giriş Ekranı" width="200"/></td>
     <td><img src="ScreenShots/Register.jpg" alt="Kayıt Ekranı" width="200"/></td>
-    <td><img src="ScreenShots/LoginPage.png" alt="Kayıt Ekranı" width="200"/></td>
-    
+    <td><img src="ScreenShots/MainScreen.jpg" alt="Ana Sayfa" width="200"/></td>
   </tr>
 </table>
 
